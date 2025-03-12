@@ -1,7 +1,6 @@
 # AeroInk
 
-AeroInk is a full-stack web application built with Node.js, Express, MongoDB, and modern frontend tools. This project provides a platform for [briefly describe your project's purpose].
-
+AeroInk is a full-stack web application built with Node.js, Express, MongoDB, and modern frontend tools.
 ## Features
 
 - User authentication (login/signup) using JWT.
